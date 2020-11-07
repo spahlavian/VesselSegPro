@@ -1,0 +1,29 @@
+SPM 12:
+https://www.fil.ion.ucl.ac.uk/spm/software/spm12/
+
+AdvancedColormap:
+https://www.mathworks.com/matlabcentral/fileexchange/41583-advancedcolormap
+
+blockPlot:
+https://www.mathworks.com/matlabcentral/fileexchange/31988-blockplot-a-block-like-3d-drawer-for-binary-masks
+
+Mesh voxelisation:
+https://www.mathworks.com/matlabcentral/fileexchange/27390-mesh-voxelisation
+
+export_fig:
+https://www.mathworks.com/matlabcentral/fileexchange/23629-export_fig
+
+inputsdlg:
+https://www.mathworks.com/matlabcentral/fileexchange/25862-inputsdlg-enhanced-input-dialog-box
+
+Tools for NIfTI and ANALYZE image:
+https://www.mathworks.com/matlabcentral/fileexchange/8797-tools-for-nifti-and-analyze-image
+
+regionGrowing:
+https://www.mathworks.com/matlabcentral/fileexchange/32532-region-growing-2d-3d-grayscale
+
+stlwrite:
+https://www.mathworks.com/matlabcentral/fileexchange/20922-stlwrite-write-ascii-or-binary-stl-files
+
+SurfaceSmooth:
+https://www.mathworks.com/matlabcentral/fileexchange/45416-surfacesmooth
