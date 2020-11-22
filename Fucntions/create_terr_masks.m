@@ -5,7 +5,6 @@ function [terr_masks]=create_terr_masks(mat_4D,n_terr,frames,thr,pre_blocking_ma
 % written by: Oren Geri 
 %   Tel Aviv Sourasky Medical Center
 % Soroush H. Pahlavian
-%   Laboratory of Functional MRI Technology
 %   Mark and Mary Stevens Neuroimaging and Informatics Institute
 %   University of Southern California
 % © 2018-2020 
