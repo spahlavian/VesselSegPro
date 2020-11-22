@@ -3,7 +3,6 @@
 % obtained from the segmentation
 
 % written by: Soroush H. Pahlavian
-% Laboratory of Functional MRI Technology
 % Mark and Mary Stevens Neuroimaging and Informatics Institute
 % University of Southern California
 % © 2018-2020 
