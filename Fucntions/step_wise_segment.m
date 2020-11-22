@@ -6,7 +6,6 @@ function [terr_images,terr_masks]=step_wise_segment(seed_voxels,mat_4D,ini_b_mas
 % written by: Oren Geri 
 %   Tel Aviv Sourasky Medical Center
 % Soroush H. Pahlavian
-%   Laboratory of Functional MRI Technology
 %   Mark and Mary Stevens Neuroimaging and Informatics Institute
 %   University of Southern California
 % © 2018-2020 
