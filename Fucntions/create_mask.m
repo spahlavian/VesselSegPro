@@ -7,7 +7,6 @@ function [mask]=create_mask(img,range)
 % written by: Oren Geri 
 %   Tel Aviv Sourasky Medical Center
 % Soroush H. Pahlavian
-%   Laboratory of Functional MRI Technology
 %   Mark and Mary Stevens Neuroimaging and Informatics Institute
 %   University of Southern California
 % © 2018-2020 
