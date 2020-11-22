@@ -6,7 +6,6 @@ function b_mask=b_mask_creation(terr_masks,terr_no,frame)
 % written by: Oren Geri 
 %   Tel Aviv Sourasky Medical Center
 % Soroush H. Pahlavian
-%   Laboratory of Functional MRI Technology
 %   Mark and Mary Stevens Neuroimaging and Informatics Institute
 %   University of Southern California
 % © 2018-2020 
