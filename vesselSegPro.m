@@ -4,7 +4,6 @@ function varargout = vesselSegPro(varargin)
 % cerebral vessels based on 4D MR angiography.
 %
 % Developed by: Soroush H. Pahlavian, PhD
-% Laboratory of Functional MRI Technology
 % Mark and Mary Stevens Neuroimaging and Informatics Institute
 % University of Southern California
 % © 2018-2020 
